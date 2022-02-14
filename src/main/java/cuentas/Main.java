@@ -1,5 +1,10 @@
 package cuentas;
 
+/**
+ * Clase principal que crea objetos de tipo CCuenta y retira e ingresa dos cantidades especificas.
+ * 
+ * @author Maria Fernanda Villarroel Toaque
+ */
 public class Main {
 
     public static void main(String[] args) {
